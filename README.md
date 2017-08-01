@@ -1,2 +1,52 @@
-# resources
-A list of data sets and other resources for light fields for computer vision
+# Light Field Resources
+This is a (work in progress) repo for collecting links to data sets, source code, and other resources related to research on light fields for computer vision. **This is an open list maintained by the light field community. So please feel encouraged to contribute by adding/updating information or by fixing broken links.** You may edit this file directly and make a pull request or send an email to contact(at)lightfield-analysis.net.
+
+For further information and interaction within the light field community, have a look at:
+- [Google Community](https://plus.google.com/communities/114934462920613225440)
+- [Light Field Forum](http://lightfield-forum.com/en/)
+- [Mailing list]]() coming soon!
+
+## Datasets
+- [The (New) Stanford Light Field Archive](http://lightfield.stanford.edu/)
+- [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
+- [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://lightfield-analysis.net/)
+- [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713)
+- [Lytro first generation dataset](https://www.irisa.fr/temics/demos/lightField/index.html)
+- [EPFL Light-Field Image Dataset](http://mmspg.epfl.ch/EPFL-light-field-image-dataset)
+- [Disney High Spatio-Angular Resolution Light Fields](https://www.disneyresearch.com/project/lightfields/)
+- [Light field Saliency Dataset (LFSD)](https://www.eecis.udel.edu/~nianyi/LFSD.htm)
+- [LCAV-31 - A Dataset for Light Field Object Recognition](https://github.com/aghasemi/lcav31)
+- [A 4D Light-Field Dataset for Material Recognition](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV16/LF_dataset.zip)
+- [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
+- *please add more :)*
+
+## Tools
+- [Matlab Light Field Toolbox](http://de.mathworks.com/matlabcentral/fileexchange/49683-light-field-toolbox-v0-4)
+- [cocolib light field suite](http://cocolib.net/index.php/examples/lightfields)
+- [Geometric light field camera calibration toolbox](https://sites.google.com/site/yunsubok/lf_geo_calib)
+- [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
+- *please add more :)*
+
+## Algorithm Source Code
+- [Accurate Depth Map Estimation from a Lenslet Light Field Camera](https://sites.google.com/site/hgjeoncv/home/depthfromlf_cvpr15) (*LF)
+- [Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/occCode.zip) (*LF_OCC)
+- [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](http://www.ee.nthu.edu.tw/chaotsung/rprf/index.html) (RPRF)
+- [Robust Depth Estimation for Light Field via Spinning Parallelogram Operator](https://github.com/shuozh/Spinning-Parallelogram-Operator) (SPO)
+- *please add more :)*
+
+*Where applicable, the short name in parentheses denotes the acronym used on the [4D light field benchmark](http://lightfield-analysis.net).*
+
+
+## Workshops & Tutorials
+- [1st Workshop on Light Fields for Computer Vision @ ECCV 2014](https://www.eecis.udel.edu/~yu/LF4CV/)
+- [2nd Workshop on Light Fields for Computer Vision @ CVPR 2017](http://lightfield-analysis.net/LF4CV/)
+- *please add more :)*
+
+
+## People / Labs
+- *please add more :)*
+
+
+## Background Information / General Light Field Information
+- [Wikipedia](https://en.wikipedia.org/wiki/Light_field)
+- *please add more :)*
