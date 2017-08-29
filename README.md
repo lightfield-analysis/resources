@@ -49,4 +49,6 @@ For further information and interaction within the light field community, have a
 
 ## Background Information / General Light Field Information
 - [Wikipedia](https://en.wikipedia.org/wiki/Light_field)
+- [plenoptic.info](http://plenoptic.info/) provides some nice visualizations on how micro lens based plenoptic cameras work
+- [Todor Georgievs Website](http://www.tgeorgiev.net/) insights into plenoptic cameras. No longer updated (?)
 - *please add more :)*
