@@ -4,7 +4,7 @@ This is a (work in progress) repo for collecting links to data sets, source code
 For further information and interaction within the light field community, have a look at:
 - [Google Community](https://plus.google.com/communities/114934462920613225440)
 - [Light Field Forum](http://lightfield-forum.com/en/)
-- [Mailing list]]() coming soon!
+- [Mailing List / Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
 
 ## Datasets
 - [The (New) Stanford Light Field Archive](http://lightfield.stanford.edu/)
