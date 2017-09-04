@@ -54,4 +54,5 @@ For further information and interaction within the light field community, have a
 - [Wikipedia](https://en.wikipedia.org/wiki/Light_field)
 - [plenoptic.info](http://plenoptic.info/) provides some nice visualizations on how micro lens based plenoptic cameras work
 - [Todor Georgievs Website](http://www.tgeorgiev.net/) insights into plenoptic cameras. No longer updated (?)
+- [A Taxonomy and Evaluation of Dense Light Field Depth Estimation Algorithms](http://lightfield-analysis.net/benchmark/paper/survey_cvprw_lf4cv_2017.pdf) This paper gives an in depth overview of depth estimation approaches for 4D light fields
 - *please add more :)*
