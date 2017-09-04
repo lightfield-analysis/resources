@@ -2,9 +2,9 @@
 This is a (work in progress) repo for collecting links to data sets, source code, and other resources related to research on light fields for computer vision. **This is an open list maintained by the light field community. So please feel encouraged to contribute by adding/updating information or by fixing broken links.** You may edit this file directly and make a pull request or send an email to contact(at)lightfield-analysis.net.
 
 For further information and interaction within the light field community, have a look at:
-- [Google Community](https://plus.google.com/communities/114934462920613225440)
+- [Google Community for the Matlab Light Field Toolbox](https://plus.google.com/communities/114934462920613225440)
 - [Light Field Forum](http://lightfield-forum.com/en/)
-- [Mailing List / Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
+- [Mailing List / General Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
 
 
 ## Background Information / General Light Field Information
@@ -30,7 +30,7 @@ For further information and interaction within the light field community, have a
 - *please add more :)*
 
 ## Tools
-- [Matlab Light Field Toolbox](http://de.mathworks.com/matlabcentral/fileexchange/49683-light-field-toolbox-v0-4)
+- [Matlab Light Field Toolbox](http://dgd.vision/Tools/LFToolbox/)
 - [cocolib light field suite](http://cocolib.net/index.php/examples/lightfields)
 - [Geometric light field camera calibration toolbox](https://sites.google.com/site/yunsubok/lf_geo_calib)
 - [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
@@ -55,5 +55,5 @@ For further information and interaction within the light field community, have a
 ## People / Labs
 - [CVIA, Computer Vision and Image Analysis, Uni Konstanz, Germany](https://www.cvia.uni-konstanz.de/)
 - [SCI, Stanford Computational Imaging, Stanford University, USA](http://www.computationalimaging.org/)
-- [HCI Heidelberg, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
+- [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - *please add more :)*
