@@ -44,6 +44,9 @@ For further information and interaction within the light field community, have a
 
 
 ## People / Labs
+- [CVIA, Computer Vision and Image Analysis, Uni Konstanz, Germany](https://www.cvia.uni-konstanz.de/)
+- [SCI, Stanford Computational Imaging, Stanford University, USA](http://www.computationalimaging.org/)
+- [HCI Heidelberg, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - *please add more :)*
 
 
