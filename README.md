@@ -6,6 +6,15 @@ For further information and interaction within the light field community, have a
 - [Light Field Forum](http://lightfield-forum.com/en/)
 - [Mailing List / Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
 
+
+## Background Information / General Light Field Information
+- [Wikipedia](https://en.wikipedia.org/wiki/Light_field)
+- [plenoptic.info](http://plenoptic.info/) provides some nice visualizations on how micro lens based plenoptic cameras work
+- [Todor Georgievs Website](http://www.tgeorgiev.net/) insights into plenoptic cameras. No longer updated (?)
+- [A Taxonomy and Evaluation of Dense Light Field Depth Estimation Algorithms](http://lightfield-analysis.net/benchmark/paper/survey_cvprw_lf4cv_2017.pdf) paper with an in depth overview of depth estimation approaches for 4D light fields
+- [Light Fields and Computational Imaging](https://web.stanford.edu/class/ee367/reading/levoy-lfphoto-ieee06.pdf) early survey of the theory and practice of light field imaging 
+- *please add more :)*
+
 ## Datasets
 - [The (New) Stanford Light Field Archive](http://lightfield.stanford.edu/)
 - [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
@@ -47,12 +56,4 @@ For further information and interaction within the light field community, have a
 - [CVIA, Computer Vision and Image Analysis, Uni Konstanz, Germany](https://www.cvia.uni-konstanz.de/)
 - [SCI, Stanford Computational Imaging, Stanford University, USA](http://www.computationalimaging.org/)
 - [HCI Heidelberg, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
-- *please add more :)*
-
-
-## Background Information / General Light Field Information
-- [Wikipedia](https://en.wikipedia.org/wiki/Light_field)
-- [plenoptic.info](http://plenoptic.info/) provides some nice visualizations on how micro lens based plenoptic cameras work
-- [Todor Georgievs Website](http://www.tgeorgiev.net/) insights into plenoptic cameras. No longer updated (?)
-- [A Taxonomy and Evaluation of Dense Light Field Depth Estimation Algorithms](http://lightfield-analysis.net/benchmark/paper/survey_cvprw_lf4cv_2017.pdf) This paper gives an in depth overview of depth estimation approaches for 4D light fields
 - *please add more :)*
