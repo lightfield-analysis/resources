@@ -27,6 +27,7 @@ For further information and interaction within the light field community, have a
 - [LCAV-31 - A Dataset for Light Field Object Recognition](https://github.com/aghasemi/lcav31)
 - [A 4D Light-Field Dataset for Material Recognition](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV16/LF_dataset.zip)
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
+- [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - *please add more :)*
 
 ## Tools
