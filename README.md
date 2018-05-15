@@ -35,6 +35,8 @@ For further information and interaction within the light field community, have a
 - [cocolib light field suite](http://cocolib.net/index.php/examples/lightfields)
 - [Geometric light field camera calibration toolbox](https://sites.google.com/site/yunsubok/lf_geo_calib)
 - [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
+- [Plenoptic Toolbox 2.0](https://github.com/PlenopticToolbox/PlenopticToolbox2.0)
+- [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - *please add more :)*
 
 ## Algorithm Source Code
