@@ -28,6 +28,8 @@ For further information and interaction within the light field community, have a
 - [A 4D Light-Field Dataset for Material Recognition](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV16/LF_dataset.zip)
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
+- [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
+- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
 - *please add more :)*
 
 ## Tools
@@ -37,6 +39,8 @@ For further information and interaction within the light field community, have a
 - [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
 - [Plenoptic Toolbox 2.0](https://github.com/PlenopticToolbox/PlenopticToolbox2.0)
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
+- [Matlab Light Field Toolbox - CLIM / V-SENSE](http://dgd.vision/Tools/LFToolbox/)
+- [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
 - *please add more :)*
 
 ## Algorithm Source Code
@@ -44,6 +48,7 @@ For further information and interaction within the light field community, have a
 - [Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/occCode.zip) (*LF_OCC)
 - [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](http://www.ee.nthu.edu.tw/chaotsung/rprf/index.html) (RPRF)
 - [Robust Depth Estimation for Light Field via Spinning Parallelogram Operator](https://github.com/shuozh/Spinning-Parallelogram-Operator) (SPO)
+- [LFBM5D filter for light field denoising and super-resolution](https://github.com/V-Sense/LFBM5D)
 - *please add more :)*
 
 *Where applicable, the short name in parentheses denotes the acronym used on the [4D light field benchmark](http://lightfield-analysis.net).*
@@ -59,4 +64,6 @@ For further information and interaction within the light field community, have a
 - [CVIA, Computer Vision and Image Analysis, Uni Konstanz, Germany](https://www.cvia.uni-konstanz.de/)
 - [SCI, Stanford Computational Imaging, Stanford University, USA](http://www.computationalimaging.org/)
 - [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
+- [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
+- [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
 - *please add more :)*
