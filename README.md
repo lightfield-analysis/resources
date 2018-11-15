@@ -39,7 +39,7 @@ For further information and interaction within the light field community, have a
 - [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
 - [Plenoptic Toolbox 2.0](https://github.com/PlenopticToolbox/PlenopticToolbox2.0)
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
-- [Matlab Light Field Toolbox - CLIM / V-SENSE](http://dgd.vision/Tools/LFToolbox/)
+- [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
 - *please add more :)*
 
