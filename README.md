@@ -2,7 +2,6 @@
 This is a (work in progress) repo for collecting links to data sets, source code, and other resources related to research on light fields for computer vision. **This is an open list maintained by the light field community. So please feel encouraged to contribute by adding/updating information or by fixing broken links.** You may edit this file directly and make a pull request or send an email to contact(at)lightfield-analysis.net.
 
 For further information and interaction within the light field community, have a look at:
-- [Google Community for the Matlab Light Field Toolbox](https://plus.google.com/communities/114934462920613225440)
 - [Light Field Forum](http://lightfield-forum.com/en/)
 - [Mailing List / General Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
 
@@ -16,9 +15,7 @@ For further information and interaction within the light field community, have a
 - *please add more :)*
 
 ## Datasets
-- [The (New) Stanford Light Field Archive](http://lightfield.stanford.edu/)
-- [The Stanford Multiview Light Field Datasets](http://lightfields.stanford.edu/mvlf/)
-- [Stanford Lytro Light Field Archive](http://lightfields.stanford.edu/index.html)
+- [Stanford Light Field Archives: Old, New, Lytro, and Multiview ](http://lightfields.stanford.edu/)
 - [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
 - [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://lightfield-analysis.net/)
 - [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713)
@@ -46,6 +43,7 @@ For further information and interaction within the light field community, have a
 - *please add more :)*
 
 ## Algorithm Source Code
+- [LiFF Light Field Feature Detector and Descriptor](http://dgd.vision/Tools/LiFF/)
 - [Accurate Depth Map Estimation from a Lenslet Light Field Camera](https://sites.google.com/site/hgjeoncv/home/depthfromlf_cvpr15) (*LF)
 - [Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/occCode.zip) (*LF_OCC)
 - [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](http://www.ee.nthu.edu.tw/chaotsung/rprf/index.html) (RPRF)
