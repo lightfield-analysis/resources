@@ -66,4 +66,5 @@ For further information and interaction within the light field community, have a
 - [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
 - [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
+- [HD Vision Systems](https://www.hdvisionsystems.com)
 - *please add more :)*
