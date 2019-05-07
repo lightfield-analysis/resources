@@ -29,6 +29,7 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - *please add more :)*
 
 ## Tools
