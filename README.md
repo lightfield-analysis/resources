@@ -29,6 +29,12 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [Graz University, EtaArgus](https://www.etaargus.com/datasets)
+- [University Rome, SMART Dataset](http://www.comlab.uniroma3.it/SMART.html)
+- [MPI Light Field Intrinsics](http://lfid.mpi-inf.mpg.de/)
+- [MPI Light Field Archive](http://lightfields.mpi-inf.mpg.de/Dataset.html)
+- [Matching Lytro and Raytrix Dataset](https://figshare.com/articles/The_Plenoptic_Dataset/6115487)
+- [HCI Specular Dataset](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
 - *please add more :)*
 
 ## Tools
