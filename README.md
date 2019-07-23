@@ -29,6 +29,7 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [HFUT Lytro Illum Dataset for Saliency Detection](https://drive.google.com/drive/folders/1iEuM-CO5JUgKa5-NHMXWjorAt2kBaSU3)
 - *please add more :)*
 
 ## Tools
