@@ -29,6 +29,7 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
 - *please add more :)*
 
 ## Tools
@@ -40,6 +41,7 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
+- [Light Field focus calibration and depth estimation] (https://www.mathworks.com/matlabcentral/fileexchange/67876-lightfield-focus-calibration-for-metric-depth-estimation)
 - *please add more :)*
 
 ## Algorithm Source Code
