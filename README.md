@@ -30,6 +30,7 @@ For further information and interaction within the light field community, have a
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
+- [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - *please add more :)*
 
 ## Tools
@@ -69,4 +70,5 @@ For further information and interaction within the light field community, have a
 - [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
 - [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
+- [HD Vision Systems](https://www.hdvisionsystems.com)
 - *please add more :)*
