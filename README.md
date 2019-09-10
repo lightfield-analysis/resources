@@ -28,13 +28,17 @@ For further information and interaction within the light field community, have a
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
-- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
 - [Graz University, EtaArgus](https://www.etaargus.com/datasets)
 - [University Rome, SMART Dataset](http://www.comlab.uniroma3.it/SMART.html)
 - [MPI Light Field Intrinsics](http://lfid.mpi-inf.mpg.de/)
 - [MPI Light Field Archive](http://lightfields.mpi-inf.mpg.de/Dataset.html)
 - [Matching Lytro and Raytrix Dataset](https://figshare.com/articles/The_Plenoptic_Dataset/6115487)
-- [HCI Specular Dataset](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
+- [CVIA Konstanz Specular Dataset](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
+- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-lf-extraction-pipeline/)
+- [IRIS Lytro Illum Light Field Dataset](https://www.irisa.fr/temics/demos/IllumDatasetLF/index.html)
+- [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
+- [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
+- [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - *please add more :)*
 
 ## Tools
@@ -46,6 +50,8 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
+- [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
+- [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
 - *please add more :)*
 
 ## Algorithm Source Code
@@ -72,4 +78,5 @@ For further information and interaction within the light field community, have a
 - [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
 - [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
+- [HD Vision Systems](https://www.hdvisionsystems.com)
 - *please add more :)*
