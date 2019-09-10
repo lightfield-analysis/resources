@@ -28,6 +28,7 @@ For further information and interaction within the light field community, have a
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
+- [HFUT Lytro Illum Dataset for Saliency Detection](https://drive.google.com/drive/folders/1iEuM-CO5JUgKa5-NHMXWjorAt2kBaSU3)
 - [Graz University, EtaArgus](https://www.etaargus.com/datasets)
 - [University Rome, SMART Dataset](http://www.comlab.uniroma3.it/SMART.html)
 - [MPI Light Field Intrinsics](http://lfid.mpi-inf.mpg.de/)
