@@ -28,7 +28,7 @@ For further information and interaction within the light field community, have a
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
-- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-lf-extraction-pipeline/)
 - [IRIS Lytro Illum Light Field Dataset](https://www.irisa.fr/temics/demos/IllumDatasetLF/index.html)
 - [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
