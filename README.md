@@ -40,6 +40,7 @@ For further information and interaction within the light field community, have a
 - [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
+- [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
 - *please add more :)*
 
 ## Tools
@@ -51,6 +52,7 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
+- [Light Field focus calibration and depth estimation] (https://www.mathworks.com/matlabcentral/fileexchange/67876-lightfield-focus-calibration-for-metric-depth-estimation)
 - [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
 - [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
 - *please add more :)*
