@@ -29,6 +29,7 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/a-pipeline-for-lenslet-light-field-quality-enhancement/)
+- [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - *please add more :)*
 
@@ -41,6 +42,8 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
+- [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
+- [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
 - *please add more :)*
 
 ## Algorithm Source Code
