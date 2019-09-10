@@ -2,7 +2,6 @@
 This is a (work in progress) repo for collecting links to data sets, source code, and other resources related to research on light fields for computer vision. **This is an open list maintained by the light field community. So please feel encouraged to contribute by adding/updating information or by fixing broken links.** You may edit this file directly and make a pull request or send an email to contact(at)lightfield-analysis.net.
 
 For further information and interaction within the light field community, have a look at:
-- [Google Community for the Matlab Light Field Toolbox](https://plus.google.com/communities/114934462920613225440)
 - [Light Field Forum](http://lightfield-forum.com/en/)
 - [Mailing List / General Light Field Vision Google Group](https://groups.google.com/forum/#!forum/lightfieldvision)
 
@@ -16,7 +15,7 @@ For further information and interaction within the light field community, have a
 - *please add more :)*
 
 ## Datasets
-- [The (New) Stanford Light Field Archive](http://lightfield.stanford.edu/)
+- [Stanford Light Field Archives: Old, New, Lytro, and Multiview ](http://lightfields.stanford.edu/)
 - [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
 - [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://lightfield-analysis.net/)
 - [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713)
@@ -30,6 +29,10 @@ For further information and interaction within the light field community, have a
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-lf-extraction-pipeline/)
+- [IRIS Lytro Illum Light Field Dataset](https://www.irisa.fr/temics/demos/IllumDatasetLF/index.html)
+- [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
+- [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
+- [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - *please add more :)*
 
 ## Tools
@@ -41,9 +44,12 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
+- [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
+- [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
 - *please add more :)*
 
 ## Algorithm Source Code
+- [LiFF Light Field Feature Detector and Descriptor](http://dgd.vision/Tools/LiFF/)
 - [Accurate Depth Map Estimation from a Lenslet Light Field Camera](https://sites.google.com/site/hgjeoncv/home/depthfromlf_cvpr15) (*LF)
 - [Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/occCode.zip) (*LF_OCC)
 - [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](http://www.ee.nthu.edu.tw/chaotsung/rprf/index.html) (RPRF)
@@ -66,4 +72,5 @@ For further information and interaction within the light field community, have a
 - [HCI, Heidelberg Collaboratory for Image Processing, Heidelberg University, Germany](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=453)
 - [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
 - [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
+- [HD Vision Systems](https://www.hdvisionsystems.com)
 - *please add more :)*
