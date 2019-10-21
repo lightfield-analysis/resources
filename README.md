@@ -29,7 +29,7 @@ For further information and interaction within the light field community, have a
 - [Data for: Occlusion-aware depth estimation using light-field cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV15/dataset.zip)
 - [DDFF 12-Scene 4.5D Lightfield-Depth Benchmark](https://vision.in.tum.de/data/datasets/ddff12scene)
 - [INRIA Lytro Light Field Dataset](https://www.irisa.fr/temics/demos/lightField/LowRank2/datasets/datasets.html)
-- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-lf-extraction-pipeline/)
+- [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-light-field-extraction/)
 - *please add more :)*
 
 ## Tools
