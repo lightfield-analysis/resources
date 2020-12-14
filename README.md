@@ -41,6 +41,7 @@ For further information and interaction within the light field community, have a
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
+- [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
 - *please add more :)*
 
 ## Tools
