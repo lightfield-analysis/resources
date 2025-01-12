@@ -41,6 +41,7 @@ For further information and interaction within the light field community, have a
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
+- [Light Field Dataset LF@FIT 4K synthetic light field scenes with 15x15 grid](https://www.fit.vut.cz/~ichlubna/lf)
 - [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
 - [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
 - [LFDD: Light field image dataset for performance evaluation of objective quality metrics](https://sites.google.com/fel.cvut.cz/lfdd)
@@ -67,6 +68,9 @@ For further information and interaction within the light field community, have a
 - [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](http://www.ee.nthu.edu.tw/chaotsung/rprf/index.html) (RPRF)
 - [Robust Depth Estimation for Light Field via Spinning Parallelogram Operator](https://github.com/shuozh/Spinning-Parallelogram-Operator) (SPO)
 - [LFBM5D filter for light field denoising and super-resolution](https://github.com/V-Sense/LFBM5D)
+- [Real-Time Light Field Video Focusing and GPU Accelerated Streaming](https://github.com/dormon/3DApps/blob/master/src/lightfieldPlayer.cpp)
+- [Lightweight All-Focused Light Field Rendering](https://www.fit.vutbr.cz/~ichlubna/lf)
+- [Efficient Random-Access GPU Video Decoding for Light-Field Rendering](https://github.com/ichlubna/lfEncoding)
 - *please add more :)*
 
 *Where applicable, the short name in parentheses denotes the acronym used on the [4D light field benchmark](http://lightfield-analysis.net).*
@@ -85,4 +89,5 @@ For further information and interaction within the light field community, have a
 - [ERC-CLIM, INRIA Rennes, France](https://www.irisa.fr/temics/demos/lightField/CLIM/test.htm#)
 - [V-SENSE, School of Computer Science and Statistics, Trinity College Dublin, Ireland](https://v-sense.scss.tcd.ie/research/light-field-imaging/)
 - [HD Vision Systems](https://www.hdvisionsystems.com)
+- [LF@FIT Faculty of Information Technology, Brno University of Technology](https://www.fit.vut.cz/~ichlubna/research)
 - *please add more :)*
