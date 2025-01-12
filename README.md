@@ -14,7 +14,7 @@ For further information and interaction within the light field community, have a
 - [Light Fields and Computational Imaging](https://web.stanford.edu/class/ee367/reading/levoy-lfphoto-ieee06.pdf) early survey of the theory and practice of light field imaging 
 - *please add more :)*
 
-## Datasets
+## Datasets (Images)
 - [Stanford Light Field Archives: Old, New, Lytro, and Multiview ](http://lightfields.stanford.edu/)
 - [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
 - [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://lightfield-analysis.net/)
@@ -37,15 +37,19 @@ For further information and interaction within the light field community, have a
 - [CVIA Konstanz Specular Dataset](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
 - [V-SENSE Lytro Illum Dataset](https://v-sense.scss.tcd.ie/research/light-fields/high-quality-lf-extraction-pipeline/)
 - [IRIS Lytro Illum Light Field Dataset](https://www.irisa.fr/temics/demos/IllumDatasetLF/index.html)
-- [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
 - [Light Field Dataset LF@FIT 4K synthetic light field scenes with 15x15 grid](https://www.fit.vut.cz/~ichlubna/lf)
-- [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
 - [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
 - [LFDD: Light field image dataset for performance evaluation of objective quality metrics](https://sites.google.com/fel.cvut.cz/lfdd)
 - *please add more :)*
+
+## Datasets (Video)
+- [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
+- [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
+- *please add more :)*
+
 
 ## Tools
 - [Matlab Light Field Toolbox](http://dgd.vision/Tools/LFToolbox/)
@@ -79,6 +83,7 @@ For further information and interaction within the light field community, have a
 ## Workshops & Tutorials
 - [1st Workshop on Light Fields for Computer Vision @ ECCV 2014](https://www.eecis.udel.edu/~yu/LF4CV/)
 - [2nd Workshop on Light Fields for Computer Vision @ CVPR 2017](http://lightfield-analysis.net/LF4CV/)
+- [3rd Workshop on Light Fields for Computer Vision LFNAT: New Applications and Trends in Light Fields @ CVPR 2023](https://cvpr.thecvf.com/virtual/2023/workshop/18485)
 - *please add more :)*
 
 
