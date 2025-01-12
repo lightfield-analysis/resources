@@ -40,7 +40,7 @@ For further information and interaction within the light field community, have a
 - [IRIS Light field video dataset captured by a R8 Raytrix camera](https://www.irisa.fr/temics/demos/lightField/CLIM/Datasets/RaytrixR8Dataset-5x5/index.html)
 - [Custom-built Plenoptic Camera Dataset (OSA Publishing)](https://figshare.com/articles/Raw_image_data_taken_by_a_standard_plenoptic_camera/3362152)
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
-- [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
+- [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
 - [Light Field Dataset LF@FIT 4K synthetic light field scenes with 15x15 grid](https://www.fit.vut.cz/~ichlubna/lf)
 - [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
 - [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
