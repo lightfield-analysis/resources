@@ -21,7 +21,7 @@ For further information and interaction within the light field community, have a
 - [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713)
 - [Lytro first generation dataset](https://www.irisa.fr/temics/demos/lightField/index.html)
 - [EPFL Light-Field Image Dataset](http://mmspg.epfl.ch/EPFL-light-field-image-dataset)
-- [Disney High Spatio-Angular Resolution Light Fields](https://www.disneyresearch.com/project/lightfields/)
+- [Disney High Spatio-Angular Resolution Light Fields](http://people.csail.mit.edu/changil/light-field-depth/)
 - [Light field Saliency Dataset (LFSD)](https://www.eecis.udel.edu/~nianyi/LFSD.htm)
 - [LCAV-31 - A Dataset for Light Field Object Recognition](https://github.com/aghasemi/lcav31)
 - [A 4D Light-Field Dataset for Material Recognition](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV16/LF_dataset.zip)
@@ -42,6 +42,9 @@ For further information and interaction within the light field community, have a
 - [POV-Ray LF dataset (900LFs incl. depth), paper: Convolutional Networks for Shape from Light Field, CVPR16](https://drive.google.com/open?id=1FBCKwalzzMJweGQTN51E-M9YoNbhWUS2)
 - [Lightfield with depth ground-truth] (https://sites.google.com/view/cvia/plenoptic-imaging)
 - [Light Field Dataset LF@FIT 4K synthetic light field scenes with 15x15 grid](https://www.fit.vut.cz/~ichlubna/lf)
+- [Sintel 4D Light Field Video Dataset for Depth Estimation](https://ieee-dataport.org/open-access/sintel-4d-light-field-video-dataset)
+- [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
+- [LFDD: Light field image dataset for performance evaluation of objective quality metrics](https://sites.google.com/fel.cvut.cz/lfdd)
 - *please add more :)*
 
 ## Tools
@@ -53,7 +56,7 @@ For further information and interaction within the light field community, have a
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
 - [Light Field Colour correction](https://github.com/V-Sense/LFToolbox_Recolouring_HPR/)
-- [Light Field focus calibration and depth estimation] (https://www.mathworks.com/matlabcentral/fileexchange/67876-lightfield-focus-calibration-for-metric-depth-estimation)
+- [Light Field focus calibration and depth estimation](https://www.mathworks.com/matlabcentral/fileexchange/67876-lightfield-focus-calibration-for-metric-depth-estimation)
 - [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
 - [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
 - *please add more :)*
